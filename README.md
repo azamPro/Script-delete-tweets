@@ -9,9 +9,9 @@ A Python script to automatically delete your latest tweets using Selenium and Ch
 Create a `.env` file in the same directory with the following credentials:
 
 ```env
-TWITTER_EMAIL=aakk54705+4@gmail.com
-TWITTER_USERNAME=M_tera7
-TWITTER_PASSWORD=Aza54705
+TWITTER_EMAIL=Azzam@gmail.com
+TWITTER_USERNAME=AzamPro_
+TWITTER_PASSWORD=AzamPass
 
 ```
 
