@@ -13,9 +13,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import WebDriverException, TimeoutException, NoSuchElementException, StaleElementReferenceException
 
 # ====== CONFIGURATION ======
-MAX_TWEETS = 100
-SLEEP_EVERY = 5        # tweets
-SLEEP_SECONDS = 60     # seconds after every block
+MAX_TWEETS = 17        # maximum number of tweets to delete
+SLEEP_EVERY = 4        # tweets
+SLEEP_SECONDS = 45     # seconds after every block
 HEADLESS = True        # set to False for visible browser
 # ============================
 
